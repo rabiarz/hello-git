@@ -1,3 +1,3 @@
-### Hello world and hello git 
+### Hello git 
 
 ### Study git (Branch, commit, push)
